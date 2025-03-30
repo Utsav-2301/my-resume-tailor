@@ -27,6 +27,6 @@ An intelligent system that automatically customizes your resume for specific job
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/Utsav-2301/resume-tailor.git
-cd resume-tailor/resume-tailor
+git clone https://github.com/Utsav-2301/my-resume-tailor.git
+cd my-resume-tailor/resume-tailor
 pip install -r requirements.txt
